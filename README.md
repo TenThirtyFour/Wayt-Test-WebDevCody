@@ -34,11 +34,18 @@ This starter kit does uses Docker and Docker Compose to run a postgres database,
 
 ## How to Run
 
-1. `cp .env.sample .env`
-2. `npm i`
-3. `docker compose up`
-4. `npm run db:migrate`
-5. `npm run dev`
+###### I Found these to add:
+###### Install Docker From Web
+
+###### First - Docker Login - i am logged in so idk how it works.
+###### npm install fast-xml-parser
+###### npm install tsx fumadocs-mdx - if it doesnt workish 
+
+1. `cp .env.sample .env` - i did this i dont think you need to-
+2. `npm i` - you need to do this
+3. `docker compose up` - i did this i dont think you need to
+4. `npm run db:migrate` - i did this i dont think you need to
+5. `npm run dev` - do this at the end after installing my top notes - 
 
 ## Env Setup
 
